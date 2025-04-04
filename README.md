@@ -103,8 +103,8 @@ This project investigates the following key questions:
 ├── /scripts                  # R scripts for EDA and visualizations
 │   └── analysis.R
 ├── /visualizations           # Output plots (e.g., FIG.1 - FIG.6)
-├── /data                     # Supporting docs
-│   └── claims_df.csv  # Executive summary of insights
+├── /data                    
+│   └── claims_df.csv  
 ├── README.md                 # Project overview
 ```
 
@@ -133,7 +133,7 @@ This project investigates the following key questions:
   source("scripts/analysis.R")
   ```
 - View visual insights in `/visualizations`
-- Read the detailed narrative in `/docs/executive_summary.md`
+
 
 ---
 
